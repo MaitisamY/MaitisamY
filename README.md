@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Muhammad Aitisam Yaseen 
-- 👀 I’m interested in developing web applications.
-- 🌱 I’m currently learning MERN & Laravel.
-- 💞️ I want to collaborate on Mern and Laravel projects.
-- 📫 How to reach me: m.aitisamyaseen@gmail.com
+- 👋 Hi, I’m eager to learn anything from anyone. 
+- I’m interested in developing UX/UI designs,   
+- Web applications, and blockchain applications.
+- I’m currently learning MERN stack development & Laravel.
+- I want to collaborate and learn more about Mern stack, Blockchain, and Laravel projects.
 
 <!---
 MaitisamY/MaitisamY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
