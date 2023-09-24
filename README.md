@@ -1,4 +1,4 @@
-- 👋 Hi, I’m eager to learn anything from anyone. 
+- Hi, I'm Muhammad Aitisam Yaseen, an eager learner, ready to learn anything from anyone. 
 - I’m interested in developing UX/UI designs,   
 - Web applications, and blockchain applications.
 - I’m currently learning MERN stack development & Laravel.
