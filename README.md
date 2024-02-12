@@ -11,14 +11,14 @@ I'm a self-motivated individual with a keen interest in developing UX/UI designs
 Get in Touch
 📧 Email me at m.aitisamyaseen@gmail.com
 ## My Projects
-**Resume Monster**
+### Resume Monster
 Resume Monster is a web application designed to simplify the process of creating professional resumes. Users can choose from various templates and customize their resumes to suit their needs. Check it out
 
-**Flashcard Quiz**
+### Flashcard Quiz
 Flashcard Quiz is a web application designed to help users practice and test their knowledge on various topics using flashcards. It offers a user-friendly interface and multiple-choice answer selection. Check it out
 
-**Quote Generator**
+### Quote Generator
 Quote Generator is a simple web application that provides users with inspirational quotes based on their preferences. Users can specify the type of quotes and the number of quotes they want to receive. Check it out
 
-**Planner**
+### Planner
 Planner is a simple daily tasks maintainer app built on Next.js framework. It allows users to manage their tasks efficiently with features such as task creation, editing, and deletion. Check it out
