@@ -16,7 +16,7 @@ Tech I am comfortable working with
 ![Tech Stack](https://github.com/MaitisamY/certificates/blob/main/screen-2-github.png)
 
 
-###Get in Touch
+### Get in Touch
 📧 Email me at m.aitisamyaseen@gmail.com
 
 ## My Projects
