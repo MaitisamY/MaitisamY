@@ -23,8 +23,10 @@ Resume Monster is a web application designed to simplify the process of creating
 ### Flashcard Quiz
 Flashcard Quiz is a web application designed to help users practice and test their knowledge on various topics using flashcards. It offers a user-friendly interface and multiple-choice answer selection. Check it out
 
-### AY Control Panel - A Project for a private client
+### AY Control Panel
+A Project for a private client
 [Watch the demo video on Loom](https://www.loom.com/share/e92aa71b71764b0db6afb09141c4ba44?sid=8e9ac939-c3c5-43c6-b2b8-f10f6d9834d3)
 
-### SOANOD - Complete frontend design with all of the custom components using pure CSS ans Vanilla JavaScipt
-[URL](https://soanod.com/)
+### SOANOD 
+Complete frontend design with all of the custom components using pure CSS ans Vanilla JavaScipt
+[Visit the SOANOD](https://soanod.com/)
