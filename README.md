@@ -22,3 +22,6 @@ Quote Generator is a simple web application that provides users with inspiration
 
 ### Planner
 Planner is a simple daily tasks maintainer app built on Next.js framework. It allows users to manage their tasks efficiently with features such as task creation, editing, and deletion. Check it out
+
+### AY Control Panel - A Project for a private client
+![Video Link](https://www.loom.com/share/e92aa71b71764b0db6afb09141c4ba44?sid=23abe974-5a46-4d5d-ba07-a96edaabced0)
