@@ -1,14 +1,25 @@
 # Hi there! 👋
 
 
-![Introduction](https://github.com/MaitisamY/certificates/blob/main/screen-1-github.png)
-![Tech Stack](https://github.com/MaitisamY/certificates/blob/main/screen-2-github.png)
+I am a Full Stack Engineer and Solutions Architect with 5+ years of experience building SaaS platforms, business operation systems, logistics solutions, hospitality management systems, CRM applications, and real-time communication platforms.
 
-## About Me
-I'm a self-motivated individual with a keen interest in developing UX/UI designs, web applications, and blockchain applications. Currently, I'm focused on implementing the MERN & PERN (MongoDB, PostgreSQL, Express.js, React, Node.js) stacks and Laravel stacks to build robust and scalable web applications.
+My expertise spans the complete software lifecycle, from requirement gathering and system architecture to deployment, scaling, and maintenance.
+
+I specialize in:
+• MERN & PERN Stacks
+• Laravel Ecosystem
+• Multi-Tenant Architectures
+• REST APIs & Real-Time Systems
+• AWS Infrastructure
+• RBAC & Enterprise Systems
+• AI Assisted Development Workflows
+• Team Leadership & Product Delivery
+
+Throughout my career, I have designed and delivered inventory systems, logistics CRMs, hospitality management platforms, project management suites, lead management systems, and communication platforms.
+I enjoy solving complex business problems through software and transforming ideas into scalable products.
 
 ## What I'm Doing
-💻 Learning and implementing the MERN & PERN stacks (MongoDB, PostgreSQL, Express.js, React, Node.js) for web development.
+💻 Learning and implementing AI workflows, LLM's and Agentic Workflows.
 🌐 Exploring blockchain technology, particularly interested in learning Motoko for smart contract development.
 
 ### Get in Touch
