@@ -3,7 +3,7 @@
 **I turn complex business problems into scalable software products.**  
 Full-Stack Engineer | Product Architect | Founder | AI Automation Engineer
 
-[Portfolio](https://aitistack.com) · [LinkedIn](https://linkedin.com/in/muhammad-aitisam-yaseen) · [GitHub](https://github.com/MaitisamY) · [Email](mailto:m.aitisamyaseen@gmail.com)
+[Portfolio](https://aitistack.com) · [LinkedIn](https://linkedin.com/in/muhammad-aitisam-yaseen) · [Email](mailto:m.aitisamyaseen@gmail.com)
 
 ---
 
