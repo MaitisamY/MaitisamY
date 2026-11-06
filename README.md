@@ -15,15 +15,15 @@ I don't marry technologies. I choose the right tools, design the architecture, a
 
 `TypeScript` `JavaScript` `PHP` `Python` `SQL`
 
-**Frontend**
+**Frontend Engineering**
 
 `React` `SolidJS` `Vite` `Tailwind CSS` `Ant Design` `TanStack Query` `Zustand`
 
-**Backend**
+**Backend Engineering**
 
 `Node.js` `Fastify` `Express.js` `Laravel` `REST APIs` `WebSockets`
 
-**Databases**
+**Databases and Storage**
 
 `PostgreSQL` `MongoDB` `Redis` `SQLite` `Sequelize` `Mongoose`
 
@@ -48,9 +48,9 @@ A few ideas, products and ambitious projects I've helped bring to life.
 ### [Sometic](https://sometic.dev)
 **Founder**
 
-Building the application behavior layer I always wished existed. Reusable engines for authentication, HTTP, queries and state management without locking developers into a particular framework.
+Building the application behavior layer I always wished existed. Reusable engines for authentication, HTTP, queries, forms and state management without locking developers into a particular framework.
 
-`TypeScript` `JavaScript` `Application Architecture`
+`TypeScript` `JavaScript` `Framework-Agnostic Architecture`
 
 ### [Spreadish](https://spreadish.aitistack.com)
 **Founder**
@@ -59,17 +59,10 @@ Spreadsheet power without the Excel-sized headache. Bringing spreadsheet-like fu
 
 `React` `TypeScript` `Frontend Engineering`
 
-### [CricPR](https://cricpr.com)
-**Full-Stack Architect**
-
-Cricket deserves better software too. Architecting a digital platform that brings players, matches and cricket operations together through connected experiences.
-
-`System Architecture` `Full-Stack` `Real-Time Systems`
-
 ### [MAEIZ](https://maeiz.org)
 **Founder**
 
-Making water delivery operations less chaotic. Building digital experiences that connect customers, riders and businesses through streamlined delivery workflows.
+Making water delivery operations less chaotic. Connecting customers, riders and businesses through streamlined delivery workflows and operational management.
 
 `Product Engineering` `Fleet Operations` `Business Automation`
 
@@ -87,42 +80,110 @@ Bringing DevOps closer to the developer's machine. Exploring desktop tooling tha
 
 `Rust` `Tauri v2` `SolidJS` `TypeScript`
 
-### [AitiStack](https://aitistack.com)
-**Personal Portfolio and Engineering Hub**
-
-My little corner of the internet. A collection of products, experiments, engineering work and things I've been building along the way.
-
 ---
 
-## Collaboration Projects
+## Collaboration and Engineering Projects
 
-Some interesting products and engineering challenges I've had the opportunity to work on alongside other teams.
+Products I've architected, developed or contributed to, covering everything from enterprise systems to ambitious product experiments.
+
+### [CricPR](https://cricpr.com)
+**Full-Stack Architect**
+
+Cricket deserves better software too. Architecting a digital platform that brings players, matches and cricket operations together through connected experiences.
+
+`Full-Stack` `System Architecture` `Real-Time Systems`
 
 ### [Dispatchly](https://app.dispatchly.llc)
+**Product Engineering and Architecture**
 
-Working on a logistics and freight management platform with complex operational workflows, multi-tenant architecture and business process automation.
+Connecting the moving parts of freight and logistics operations. Working on a multi-tenant platform that brings sales, quotations, dispatch, shipments and financial workflows into one operational ecosystem.
 
-`Multi-Tenant SaaS` `Logistics` `System Architecture` `Backend Engineering`
+`Multi-Tenant SaaS` `Fastify` `PostgreSQL` `Logistics`
 
 ### [KaroCar](https://dev.karocar.site)
+**Product Development Collaboration**
 
-Collaborating on a web-based product, contributing to its engineering and development journey while helping turn product requirements into working software.
+Contributing to the engineering journey of a digital automotive product, translating product requirements into functional application experiences.
 
 `Full-Stack Development` `Web Applications` `Product Engineering`
 
+### Qalam
+**Product Architecture**
+
+A next-generation web-native design and prototyping tool. Architecting an interactive canvas editor with responsive layouts, multi-layer asset management and the ability to export designs into production-ready React, Vue and vanilla web code.
+
+`React` `Canvas Engineering` `Code Generation` `JSON Architecture`
+
+### Inventory Management System
+**Full-Stack Engineering**
+
+An audit-grade, barcode-driven inventory platform for warehouses, vehicles and field operations. Built around immutable transaction histories, serialized assets, bulk inventory tracking and atomic location transfers.
+
+`Node.js` `Express.js` `MongoDB` `RBAC` `Barcode Workflows`
+
+### Sharp HMS
+**Full-Stack Development**
+
+A multi-tenant hospitality management system designed for accommodation operations. Built with hierarchical data isolation, role-based access, branch management and real-time communication.
+
+`Multi-Tenant Architecture` `RBAC` `Real-Time Communication`
+
+### Leads Management System
+**Full-Stack Development**
+
+A centralized lead management solution where administrators assign incoming leads to sales representatives, who then manage their pipelines and move opportunities forward.
+
+`Node.js` `Express.js` `EJS` `Lead Management`
+
+### Expense Assistant
+**Full-Stack Development**
+
+A practical expense management application for salaried professionals and entrepreneurs, featuring separate account modes, real-time notifications and collaborative calendar invitations.
+
+`Expense Management` `Real-Time Notifications` `Application Workflows`
+
+### Kanban Board
+**Frontend Engineering**
+
+A standalone React micro-application designed to plug into larger platforms, featuring drag-and-drop task management and structured dossier pipelines.
+
+`React` `Drag and Drop` `Reusable Components`
+
+### Coach Theory
+**Full-Stack and Mobile Development**
+
+A coaching platform connecting people who need guidance with experienced coaches. Developed across database, backend, web and mobile experiences, including in-app calling and rating functionality.
+
+`Full-Stack` `Mobile Applications` `Real-Time Communication`
+
+### My Car Insight
+**Full-Stack Development**
+
+A subscription-based automotive onboarding platform with configurable packages, dynamic forms and live administrative visibility into customer submissions and progress.
+
+`Subscription Workflows` `Dynamic Forms` `Role-Based Access`
+
+### Digitizing Management System
+**Full-Stack Development**
+
+A business digitization platform streamlining service orders, quotations, vector design requests and payments through structured role-based workflows.
+
+`RBAC` `Business Automation` `Order Management`
+
+### [AitiStack](https://aitistack.com)
+**Personal Portfolio and Engineering Hub**
+
+My corner of the internet. A collection of products, experiments, engineering work and things I've been building along the way.
+
 ---
 
-## Organizations and Experience
+## Professional Experience
 
-| Organization | Role |
+| Organization | Position |
 |:--|:--|
-| Codified | Full-Stack Developer |
-| Sometic | Founder |
-| Spreadish | Founder |
-| MAEIZ | Founder |
-| Taurust DevOps | Founder |
-| Classific | Co-Founder |
-| CricPR | Full-Stack Architect |
+| **Codefied** | Software Engineering / Full-Stack Development |
+
+For my independent ventures and product ownership, see the Products and Ventures section above.
 
 ---
 
@@ -139,16 +200,12 @@ Collaborating on a web-based product, contributing to its engineering and develo
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaitisamY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaitisamY&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MaitisamY&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaitisamY&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/MaitisamY?tab=repositories">Explore My Repositories</a> ·
+  <a href="https://github.com/MaitisamY?tab=overview">View My Contributions</a>
 </p>
 
 ---
@@ -162,5 +219,5 @@ I'm always up for a good technical conversation.
 [Explore My Work](https://aitistack.com) · [Connect on LinkedIn](https://linkedin.com/in/muhammad-aitisam-yaseen) · [Get in Touch](mailto:m.aitisamyaseen@gmail.com)
 
 <p align="center">
-  <i>Building things, breaking assumptions, and occasionally debugging why it worked yesterday.</i>
+  <i>Building things, solving problems, and occasionally debugging why it worked yesterday.</i>
 </p>
