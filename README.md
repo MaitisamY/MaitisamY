@@ -13,23 +13,27 @@ I don't marry technologies. I choose the right tools, design the architecture, a
 
 **Languages**
 
-`TypeScript` `JavaScript` `PHP` `Python` `SQL`
+`TypeScript` `JavaScript` `PHP` `Python` `SQL` `Rust`
 
 **Frontend Engineering**
 
-`React` `SolidJS` `Vite` `Tailwind CSS` `Ant Design` `TanStack Query` `Zustand`
+`React` `SolidJS` `Vite` `Tailwind CSS` `Ant Design` `Chakra UI` `Material UI` `Framer Motion` `GSAP` `TanStack Query` `Zustand` `Sometic` ``
 
 **Backend Engineering**
 
-`Node.js` `Fastify` `Express.js` `Laravel` `REST APIs` `WebSockets`
+`Node.js` `Fastify` `Express.js` `Hono` `Laravel` `REST APIs` `WebSockets`
 
 **Databases and Storage**
 
-`PostgreSQL` `MongoDB` `Redis` `SQLite` `Sequelize` `Mongoose`
+`PostgreSQL` `MongoDB` `Redis` `SQLite` `Sequelize` `Mongoose` `MySQL`
 
 **Cloud and DevOps**
 
-`AWS` `Docker` `Linux` `Nginx` `Traefik` `Coolify` `GitHub Actions` `PM2` `Bun`
+`AWS` `GCP` `Digital Ocean` `Hostinger` `Docker` `Linux` `Nginx` `Traefik` `Coolify` `GitHub Actions` `Taurust` `Caddy` `PM2`
+
+**Storages and CDN**
+
+`AWS S3` `Cloudflare R2` `Cloudinary` `JsDelivr`
 
 **Architecture and Engineering**
 
@@ -182,6 +186,7 @@ My corner of the internet. A collection of products, experiments, engineering wo
 | Organization | Position |
 |:--|:--|
 | **Codefied** | Software Engineering / Full-Stack Development |
+| **Full-time Freelancer | Independent Consultant |
 
 For my independent ventures and product ownership, see the Products and Ventures section above.
 
